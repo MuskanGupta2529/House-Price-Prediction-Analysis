@@ -6,7 +6,9 @@ This project focuses on predicting property prices using Linear Regression. The 
 
 Project Details:
 
-Data Processing:- The dataset is loaded using Pandas. Unnecessary columns such as Address, Date, Postcode, YearBuilt, Latitude, and Longitude are dropped. 
+Data Processing:- 
+ 
+The dataset is loaded using Pandas. Unnecessary columns such as Address, Date, Postcode, YearBuilt, Latitude, and Longitude are dropped. 
 
 Missing values in numerical columns like Landsize and BuildingArea are filled with their respective mean. Other missing values in categorical/numeric columns are filled with 0. 
 
