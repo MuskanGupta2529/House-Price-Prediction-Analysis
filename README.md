@@ -12,6 +12,4 @@ Missing values in numerical columns like Landsize and BuildingArea are filled wi
 
 The dataset is converted into a machine-learning-friendly format using one-hot encoding.
 
-Developed Various dataset such as Linear REggression,Lasso,Ridge and also obtained different score such as accuracy score,r2 score,precission score.
-
-Obtained Metrics along with the following scores.
+Developed Various dataset such as Linear Reggression,Lasso,Ridge and also obtained different score such as mean absolute score ,r2 score,mean squared score.
